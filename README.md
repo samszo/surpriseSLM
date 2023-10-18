@@ -1,6 +1,6 @@
 # Surprise Sylvie
 
-![](DALL·E 2023-10-18 17.04.41 - Un portrait de Sylvie Leleu Merviel à la manière de rembrant.png)
+![](SylvieLeleuMervielRembrant.png){fig-align="center"}
 
 Sylvie Leleu-Merviel est née avec une curiosité innée pour les médias et la communication, mais surtout avec un clavier d'ordinateur à la main (enfin, presque !).
 
